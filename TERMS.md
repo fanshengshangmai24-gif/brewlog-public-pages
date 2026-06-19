@@ -19,5 +19,4 @@ BrewLog is provided without warranties. We do not guarantee that the app will be
 ## Support
 
 For questions or issues, please use:
-https://github.com/fanshengshangmai24-gif/iphone-project/issues
-
+https://github.com/fanshengshangmai24-gif/brewlog-public-pages/blob/main/SUPPORT.md

@@ -26,6 +26,5 @@ You can export brew logs as CSV from the app where available. You can delete loc
 
 ## Contact
 
-For support, please use the GitHub issue page:
-https://github.com/fanshengshangmai24-gif/iphone-project/issues
-
+For support, please use the BrewLog support page:
+https://github.com/fanshengshangmai24-gif/brewlog-public-pages/blob/main/SUPPORT.md
