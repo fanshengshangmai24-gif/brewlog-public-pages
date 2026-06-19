@@ -6,7 +6,7 @@ BrewLog is provided as a coffee brewing log and timer app. By using the app, you
 
 ## Subscriptions and Purchases
 
-BrewLog may offer auto-renewable subscriptions and non-consumable purchases through the App Store. Purchases, renewals, cancellations, and refunds are handled by Apple according to your App Store account settings.
+BrewLog may offer auto-renewable subscriptions through the App Store. Purchases, renewals, cancellations, and refunds are handled by Apple according to your App Store account settings.
 
 ## Local Data
 
