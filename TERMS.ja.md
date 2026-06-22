@@ -25,4 +25,4 @@ BrewLog は、いかなる保証もなく提供されます。本アプリにエ
 ## サポート
 
 ご質問や不具合については、以下をご利用ください。
-https://github.com/fanshengshangmai24-gif/brewlog-public-pages/blob/main/SUPPORT.md
+https://github.com/fanshengshangmai24-gif/brewlog-public-pages/blob/main/SUPPORT.ja.md

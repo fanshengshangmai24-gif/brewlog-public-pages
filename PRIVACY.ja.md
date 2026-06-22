@@ -31,4 +31,4 @@ BrewLog Pro を購入された場合、購入処理は App Store を通じて Ap
 ## お問い合わせ
 
 サポートが必要な場合は、BrewLog のサポートページをご利用ください。
-https://github.com/fanshengshangmai24-gif/brewlog-public-pages/blob/main/SUPPORT.md
+https://github.com/fanshengshangmai24-gif/brewlog-public-pages/blob/main/SUPPORT.ja.md
